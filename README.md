@@ -135,7 +135,8 @@ DOCTYPE html>
 </html>
 
 
-# OUTPUT:![Screenshot 2024-11-25 140247](https://github.com/user-attachments/assets/d8ffa44b-7656-4bab-b24e-d80cb487f837)
+# OUTPUT:!
+[Screenshot 2024-11-25 140247](https://github.com/user-attachments/assets/d8ffa44b-7656-4bab-b24e-d80cb487f837)
 
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
