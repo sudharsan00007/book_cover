@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-# Date:11/11/2024
+# Date:4/11/2024
 # AIM:
 To design a book front cover page using HTML and CSS.
 
@@ -30,9 +30,9 @@ Publish the website in the LocalHost.
 
 # PROGRAM:sudharsan.s (24009664)
                     ```
-DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Book Cover</title>
@@ -118,21 +118,28 @@ DOCTYPE html>
         }
     </style>
 </head>
+{% load static %}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Cover</title>
+    <style>
+        /* Your CSS styles here */
+    </style>
+</head>
 <body>
     <div class="book-cover">
         <div class="book-header">EXPERT INSIGHT</div>
         <div class="book-title">Responsive Web Design With HTML5 and CSS</div>
         <div class="book-image">
-            <img src="C:\Users\sudharshan\Downloads\book cover.jpg" alt="Book Cover Image">
+            <img src="{% static 'book cover.jpg' %}" alt="Book cover">
         </div>
-        <div class="book-description">
-            <p>Develop future-proof responsive websites using the latest HTML5 and CSS techniques.</p>
-        </div>
-        <div class="book-author">Ben Frain</div>
-        <div class="footer">© 2024 Publishing House</div>
+        <div class="Author-name">S.Sudharshan</div>
     </div>
 </body>
 </html>
+
+
                     ```
 
 # OUTPUT:!
