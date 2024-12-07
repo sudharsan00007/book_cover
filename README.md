@@ -29,7 +29,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:sudharsan.s (24009664)
-                    ```
+  ```            
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -138,9 +138,8 @@ Publish the website in the LocalHost.
     </div>
 </body>
 </html>
-
-
-                    ```
+  ```
+                  
 
 # OUTPUT:!
 ![Screenshot 2024-11-25 140247](https://github.com/user-attachments/assets/7fa9b467-85d2-41ab-a4fb-9ff3d5c1c99e)
